@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.main
+{
+    height: 30px;
+    width: 100%; 
+    background-color: rgb(207, 129, 194); 
+}
+.nav1
+{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    
+}
+.nav1 .n2{
+    display: flex;
+    margin-left: 400px;
+    text-align: center;
+}
+.n21
+{
+    margin-left: 15px;
+}
+.n1:hover
+{
+    background-color: rgb(212, 165, 204);
+    cursor: pointer;
+    opacity: 0.7;
+}
+.n22
+{
+    margin-left: 15px;
+}
+.n21:hover
+{
+    background-color: rgb(212, 165, 204);
+    cursor: pointer;
+    opacity: 0.7;
+}
+.n22:hover
+{
+    background-color: rgb(212, 165, 204);
+    cursor: pointer;
+    opacity: 0.7;
+}
+.n23:hover
+{
+    background-color: rgb(212, 165, 204);
+    cursor: pointer;
+    opacity: 0.7;
+}
+.n24:hover
+{
+    background-color: rgb(212, 165, 204);
+    cursor: pointer;
+    opacity: 0.7;
+}
+.n25:hover
+{
+    background-color: rgb(212, 165, 204);
+    cursor: pointer;
+    opacity: 0.7;
+}
+.n26:hover
+{
+    background-color: rgb(212, 165, 204);
+    cursor: pointer;
+    opacity: 0.7;
+}
+.n23
+{
+    margin-left: 15px;
+}
+.n24
+{
+    margin-left: 15px;
+}
+.n25
+{
+    margin-left: 15px;
+}
+.n26
+{
+    margin-left: 15px;
+}
+.n3
+{
+    margin-left: 500px;
+    text-align: center;
+    border: 2px black solid;
+}
+
+.n3:hover
+{
+    color: whitesmoke;
+    opacity: 0.6;
+}
+
+/* main page */
+
+.main2
+{
+    height: 700px;
+    width: 100%;
+    background-color: rgb(213, 178, 208);
+    display: flex;
+    
+}
+.main2 .b1{
+    padding-top: 100px;
+    margin-left: 30px;
+}
+
+.main2 .body1
+{
+    font-size: larger;
+    font-weight: bolder;
+}
+.b1 .body1:hover{
+    cursor: pointer;
+    opacity: .6;
+}
+.b1 .body2:hover{
+    cursor: pointer;
+    opacity: .6;
+}
+.b1 .body3:hover{
+    cursor: pointer;
+    opacity: .6;
+}
+.b1 .body4 .body-part-5:hover{
+    cursor: pointer;
+    opacity: .6;
+}
+.b1 .body4 .body-part-6:hover{
+    cursor: pointer;
+    opacity: .6;
+}
+.b1 .body4 .body-part-7:hover{
+    cursor: pointer;
+    opacity: .6;
+}
+.boby2
+{
+    width: 300px;
+}
+.body3
+{
+    display: flex;
+    margin-top: 40px;
+}
+
+.body3 .body-part-3
+{
+  
+}
+.body3 .body-part-4
+{
+    margin-left: 50px;
+}
+.body4
+{
+    margin-top: 100px;
+    display: flex;
+}
+/* .body-part-5{
+    margin-top: 100px;
+} */
+ .body-part-5
+ {
+    width: 50px;
+ }
+.body52
+{
+    font-weight: bold;
+}
+.body-part-6
+{
+    margin-left: 40px;
+}
+.body62
+{
+    font-weight: bold;
+}
+
+.body-part-7
+{
+    margin-left: 40px;
+    width: 100px;
+}
+.body72
+{
+    font-weight: bold;
+}
+
+/* part 2 */
+
+.b2
+{
+    width: 40%;
+    margin-left: 500px;
+    background-color:rgb(213, 178, 208);
+}
+.img
+{
+    margin-top: 65px;
+   
+}
+ /* .icon-img
+{
+    margin-bottom: 1000px;
+    /* margin-left: 180px; */
+    position: absolute;
+    /* margin-top: 100px; */
+}  */
+
+
+
+/* part-3 */
+.b3
+{
+    margin-top: 350px;
+    margin-right: 10px;
+    padding: 20px;
+  background-color:rgb(213, 178, 208);
+}
+.b3 .icon-2
+{
+    margin-top: 15px;
+}
+.b3 .icon-3
+{
+    margin-top: 15px;
+}
+.b3 .icon-1:hover
+{
+  opacity: 0.6;
+}
+.b3 .icon-2:hover
+{
+  opacity: 0.6;
+}
+.b3 .icon-3:hover
+{
+  opacity: 0.6;
+}
+.b3 .icon-1
+{
+    margin-top: 20px;
+}
